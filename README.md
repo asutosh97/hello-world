@@ -1,2 +1,2 @@
 # hello-world
-Learning Github by doing :)
+Learning Github by teaching the world:)
